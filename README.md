@@ -1,2 +1,2 @@
 # Dataset
-Collection of different dataset downloadable directly from Colab
+Collection of different notebooks showcasing handling of large datasets.
